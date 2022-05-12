@@ -120,8 +120,10 @@ Layout
 .content {
     display: flex;
     flex-direction: column;
+    justify-content: center;
     align-items: center;
     padding: 2em 1em;
+    min-height: 50vh;
 }
 
 .subtitle,
