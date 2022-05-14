@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.23154708.css",
+    "main.js": "/static/js/main.3fd3d10c.js",
+    "static/js/787.071eb048.chunk.js": "/static/js/787.071eb048.chunk.js",
+    "static/media/github.png": "/static/media/github.7f337ea9595f75d45eeb.png",
+    "static/media/trash.png": "/static/media/trash.4b0afc906346539b041d.png",
+    "static/media/Justin-Perry.pdf": "/static/media/Justin-Perry.6835263d986118a1199e.pdf",
+    "static/media/email.png": "/static/media/email.051593ce6467bec77b4f.png",
+    "static/media/trinity.png": "/static/media/trinity.1a0f8fca0032497d23c3.png",
+    "index.html": "/index.html",
+    "main.23154708.css.map": "/static/css/main.23154708.css.map",
+    "main.3fd3d10c.js.map": "/static/js/main.3fd3d10c.js.map",
+    "787.071eb048.chunk.js.map": "/static/js/787.071eb048.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23154708.css",
+    "static/js/main.3fd3d10c.js"
+  ]
+}
